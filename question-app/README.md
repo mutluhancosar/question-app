@@ -1,6 +1,6 @@
 
 
-# Sport Center Project
+# Question App
 
 This project presents a modern website that introduces a sports center and provides users with information about various services. The project is developed using only HTML, CSS, and JavaScript.
 
@@ -40,4 +40,4 @@ For any questions or suggestions, you can reach me at [mutluhancosar.1903@gmail.
 
 ## Live Site
 
-You can view the live site at (https://github.com/mutluhancosar/question-app).
+You can view the live site at (https://mutluhancosar.github.io/question-app/).
