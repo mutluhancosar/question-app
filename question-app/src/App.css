@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #665353;
+  color: rgb(255, 255, 255);
+}
+
+.info-screen{
+  margin-top: 146px;
+}
